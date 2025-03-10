@@ -1,5 +1,1 @@
-# Car_rental_project
-
-**Our Aim is to design and create a data management System for a car rental company. This enables admin can rent a vehicle that can be used by a customer This system increases customer retention and simplify vehicle and staff Management in an efficient way.**
-
-- ✔️ Version **0.0.1** System.
+The Car Rental System is a web-based application designed to streamline the process of renting cars. This project provides a user-friendly interface for customers to browse available vehicles, make reservations, and manage their rentals. Built with HTML and CSS for the frontend, PHP for the backend, and MySQL for data management, this system aims to enhance the car rental experience for both customers and administrators.
